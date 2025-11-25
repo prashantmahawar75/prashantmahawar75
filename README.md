@@ -23,7 +23,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [Kavach – Women Safety App](https://github.com/prashantmahawar75/kavach-women-safety) | [live](https://kavach-women-safety-m6f0.onrender.com/) | Real-time safety analytics with geolocation alerts & emergency broadcasting (HTML, CSS, JS) |
+| 🔐 [Kavach – Women Safety App](https://github.com/prashantmahawar75/kavach-women-safety) | [live](https://kavach-women-safety-m6f0.onrender.com/) -- Real-time safety analytics with geolocation alerts & emergency broadcasting (HTML, CSS, JS) |
 | 🔐 
 | 📈 [GrowMoreGPT – AI Stock Agent](https://github.com/prashantmahawar75/GrowMoreGPT) | AI agent using Groq + LangChain to give live stock advice with 85% accuracy (FastAPI, LangServe) |
 | 📊 [E-Khata – Inventory System](https://github.com/prashantmahawar75/E-khata) | High-performance inventory system with 10K+ SKUs using C++, File I/O, and custom indexing |
@@ -33,7 +33,7 @@
 ### 💼 Experience
 
 **Software Engineering Intern – Simplify Money**  
-📍 *Hybrid | Noida (Apr 2025 – Jun 2025)*  
+📍 *Hybrid | Noida *  
 - Developed 7+ responsive frontend modules  
 - Optimized DB queries reducing RCU usage by 30%  
 - Fine-tuned AI prompts, improving model accuracy by 70%  
