@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me:
 
 - 🎓 Final Year B.Tech CSE @ Maharaja Surajmal Institute of Technology, GGSIPU
-- 🔭 Interned as a **Software Engineer @ Simplify Money** (Apr–Jun 2025)
+- 🔭 Interned as a **Software Engineer @ Simplify Money** 
 - 💬 Passionate about building **scalable applications** & solving **DSA problems**
 - ⚡ GATE 2025 Qualified (Rank: 8799)
 - 🤖 Exploring: AI/ML, LangChain, System Design 
@@ -23,7 +23,8 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [Kavach – Women Safety App](https://github.com/prashantmahawar75/Kavach) | Real-time safety analytics with geolocation alerts & emergency broadcasting (HTML, CSS, JS) |
+| 🔐 [Kavach – Women Safety App](https://github.com/prashantmahawar75/kavach-women-safety) | [live](https://kavach-women-safety-m6f0.onrender.com/) | Real-time safety analytics with geolocation alerts & emergency broadcasting (HTML, CSS, JS) |
+| 🔐 
 | 📈 [GrowMoreGPT – AI Stock Agent](https://github.com/prashantmahawar75/GrowMoreGPT) | AI agent using Groq + LangChain to give live stock advice with 85% accuracy (FastAPI, LangServe) |
 | 📊 [E-Khata – Inventory System](https://github.com/prashantmahawar75/E-khata) | High-performance inventory system with 10K+ SKUs using C++, File I/O, and custom indexing |
 
